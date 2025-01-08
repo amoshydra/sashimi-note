@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sashimi-note.herokuapp.com">
+  <a href="https://sashimi-note.surge.sh">
     <img width="80%" src="https://rawgit.com/wiki/nus-mtp/lecture-note-2.0/media/Misc/sashimi-note-logo-github.svg">
   </a>
 </p>
@@ -53,7 +53,7 @@ Click [here](https://github.com/nus-mtp/sashimi-note/wiki/5.-Developer-Guide) fo
 1. Project website
   [nus-mtp.github.io/sashimi-note](https://nus-mtp.github.io/sashimi-note)
 2. Sashimi Note Webapp
-  [sashimi-note.herokuapp.com](https://sashimi-note.herokuapp.com)
+  [https://sashimi-note.surge.sh](https://sashimi-note.surge.sh)
 3. Video demo
   [youtu.be/O3wBi7Hid7kay](https://youtu.be/O3wBi7Hid7kay)
 4. Changelog
